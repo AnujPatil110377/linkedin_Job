@@ -1,1 +1,1 @@
-# linkedin_scraper_platwright
+# linkedin_scraper_playwright
