@@ -1,0 +1,15 @@
+2025-03-06 19:47:29,682 - INFO - [linkedin_jobs.py:263] - 
+==================================================
+NEW JOB SCRAPING SESSION STARTED
+==================================================
+2025-03-06 19:47:29,682 - INFO - [linkedin_jobs.py:25] - User data directory: C:\Users\91798\.linkedin_automation
+2025-03-06 19:47:29,682 - INFO - [linkedin_jobs.py:148] - Starting LinkedIn job scraping
+2025-03-06 19:47:30,466 - INFO - [linkedin_jobs.py:31] - Found existing cookies file
+2025-03-06 19:47:30,472 - INFO - [linkedin_jobs.py:35] - Loaded 38 cookies
+2025-03-06 19:47:30,472 - INFO - [linkedin_jobs.py:173] - Checking if cookies are valid...
+2025-03-06 19:47:39,667 - INFO - [linkedin_jobs.py:175] - Successfully logged in using cookies
+2025-03-06 19:47:39,668 - INFO - [linkedin_jobs.py:184] - Navigating to jobs URL: https://www.linkedin.com/jobs/search/?currentJobId=4125128123&f_E=1&f_TPR=r7200&geoId=102713980&keywords=software%20engineer%20intern&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true&sortBy=DD
+2025-03-06 19:47:44,792 - INFO - [linkedin_jobs.py:188] - Scrolling to load all job listings...
+2025-03-06 19:47:45,309 - INFO - [linkedin_jobs.py:191] - Finding job elements...
+2025-03-06 19:47:45,344 - INFO - [linkedin_jobs.py:193] - Found 9 job listings
+2025-03-06 19:47:46,626 - INFO - [linkedin_jobs.py:224] - Scraping completed in 16.94 seconds
