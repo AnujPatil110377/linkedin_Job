@@ -27,6 +27,8 @@ An asynchronous LinkedIn job scraping tool built with Python and Playwright that
   - Error handling and recovery
   - Configurable batch processing
   - Clean async/await implementation
+# Demo
+![Demo](jobs.gif)
 
 ## Installation
 
